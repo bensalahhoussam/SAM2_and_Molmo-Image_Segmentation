@@ -13,4 +13,10 @@ SAM2: Then we will feed the image and the point coordinates as prompts to the SA
 
 ## Results 
 
+outputs = get_output(image_path='input/image_2.jpg', prompt='Point where the people are.')
+ <points x1="26.0" y1="67.5" x2="44.2" y2="40.5" alt="people">people</points>
+![téléchargement (1)](https://github.com/user-attachments/assets/ff21a667-a309-4c96-8bc5-2fe0b41a552d)
+
+## Demo without Sam2
+
 ![ezgif-46695f6d71bc9c](https://github.com/user-attachments/assets/f027b24e-ca5f-412b-91d2-01bd65094f56)
