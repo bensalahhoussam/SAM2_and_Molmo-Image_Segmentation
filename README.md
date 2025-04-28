@@ -22,3 +22,8 @@ points x1="26.0" y1="67.5" x2="44.2" y2="40.5" alt="people">people</points
 ## Demo without Sam2
 
 ![ezgif-46695f6d71bc9c](https://github.com/user-attachments/assets/f027b24e-ca5f-412b-91d2-01bd65094f56)
+
+
+## Demo with Sam2
+
+![ezgif-264d682d65b3e3](https://github.com/user-attachments/assets/47f372e1-e3a5-469b-89ba-68c5eabb76c4)
